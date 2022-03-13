@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rufat Nasirov</h1>
 <h3 align="center">Android Developer in Azerbaijan</h3>
 
-- 🌱 I’m currently learning **Kotlin/Android**
+- 🌱 I’m currently learning **Dagger2**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rufetnesirov](https://github.com/rufetnesirov)
 
